@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "207713796654",
+    "project_id": "flutterflowtodo-bf645",
+    "storage_bucket": "flutterflowtodo-bf645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207713796654:android:33e7fb70939162ec2e95bf",
+        "android_client_info": {
+          "package_name": "com.bitwyse.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207713796654-d9gfkefjqag01vgla0mju92ukta869ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitwyse.todo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "207713796654-t28qfc1cqksi5sfpeibm0gal3ov23970.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUSKsalE4ksJBsAsDqabG4ydUdmUeULiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207713796654-6n3nbq2j1k8371qimvboa5kli1a0epjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "207713796654-vt6gola0iuhfaf3l9gi95noffob0qk7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitwyse.todo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207713796654:android:efea331adf1c785e2e95bf",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207713796654-t28qfc1cqksi5sfpeibm0gal3ov23970.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUSKsalE4ksJBsAsDqabG4ydUdmUeULiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207713796654-6n3nbq2j1k8371qimvboa5kli1a0epjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "207713796654-vt6gola0iuhfaf3l9gi95noffob0qk7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitwyse.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
